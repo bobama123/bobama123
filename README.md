@@ -36,6 +36,7 @@ Feel free to shoot me a message to collaborate or just to say hi!
 
 ---
 
+
 ## 📚 Learning:
 
 - C++ <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />

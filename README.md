@@ -16,6 +16,7 @@ Feel free to shoot me a message to collaborate or just to say hi!
 | [**Acebook**](https://github.com/bobama123/acebook) | Full-stack Facebook clone. Users can post, comment, and like content with secure authentication. | JavaScript, Node.js, React, MongoDB |
 | [**Kwizical**](https://github.com/bobama123/kwizical-mern) | Interactive web quiz game using the Deezer API to fetch music snippets for multiple-choice questions. | MERN (MongoDB, Express, React, Node.js) |
 
+I am currently working on "Budget Smart" a MERN stack application for users to track transactions and focus more on their budget.
 ---
 
 ## 🧰 Current Languages and Tools
